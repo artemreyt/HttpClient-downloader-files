@@ -1,0 +1,3 @@
+http://www.chilkatsoft.com/hamlet.xml
+http://chilkatdownload.com/9.5.0.79/chilkat-9.5.0-darwin-x86_64-ruby-2.5.gem.tar.gz 
+http://www.bmstu.ru/content/plans-2019/bac/iu.pdf
